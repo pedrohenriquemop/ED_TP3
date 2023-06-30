@@ -1,0 +1,8 @@
+bin/*
+!bin/.gitkeep
+obj/*
+!obj/.gitkeep
+.vscode
+*.in
+*.out
+*.txt
